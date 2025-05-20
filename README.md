@@ -12,4 +12,4 @@ This project demonstrates basic HTML form elements including input fields, label
 Open the `index.html` file in your browser.
 
 ## Author
-Sandeep Nandakumar
+Sandeep N S
